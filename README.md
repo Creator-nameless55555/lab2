@@ -1,4 +1,4 @@
-# Лабораторная работа №2: Права доступа в Linux
+# Лабораторная работа №2: *nix — права доступа, управление процессами
 
 ![Python](https://shields.io)
 ![Security](https://shields.io)
@@ -10,5 +10,4 @@
 - `pygamesteel_fixed.py` — исправленный скрипт Pygame.
 - `test_privesc.sh` — тест SUID-бита.
 - `shared/` — папка со Sticky Bit.
-- `nmapres.txt` — файл для будущих данных сканирования.
 
